@@ -1,13 +1,79 @@
 # Udezue Chris
-<h3 align="center">A passionate Software and Web developer from Nigeria</h3>
 
-- 🌱 I’m currently learning **C++ and React js**
+Frontend Developer | React.js Specialist  
+Bachelor’s Degree in Computer Science
 
-- ⚡ Fun fact **I am a very Optimistic person**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+I am a frontend developer with over four years of professional experience building modern, scalable, and responsive web applications using React.js. I hold a Bachelor’s degree in Computer Science and possess a strong foundation in core web technologies, component-driven development, and user interface design.
+
+I am committed to writing clean, maintainable code and continuously improving my technical skills while collaborating on impactful frontend projects.
+
+---
+
+## Professional Summary
+
+- 4+ years of hands-on experience with React.js
+- Strong proficiency in HTML5, CSS, and JavaScript
+- Experience building responsive interfaces using Tailwind CSS
+- Solid computer science background
+- Actively expanding expertise in C++ and advanced React concepts
+
+---
+
+## Tech Stack
+
+**Programming Languages**
+- HTML5  
+- CSS  
+- JavaScript  
+- React.js  
+- Tailwind CSS  
+- C++
+
+**Development Tools**
+- Visual Studio Code  
+- Visual Studio Community  
+
+---
+
+## Current Focus
+
+- Advancing React.js architecture and performance optimization
+- Strengthening C++ programming fundamentals
+- Building production-ready frontend applications
+
+---
+
+## Opportunities
+
+- Open to frontend developer roles
+- Open to React.js collaborations
+- Available for professional and open-source projects
+
+---
+
+## Featured Projects
+
+_(Projects will be added here)_
+
+- Project Name – Description  
+- Project Name – Description  
+- Project Name – Description  
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samacode&show_icons=true&hide_title=true)
+
+---
+
+## Connect With Me
+
+- LinkedIn: [Link coming soon]
+- Portfolio: [Link coming soon]
+- Instagram: [Link coming soon]
+
